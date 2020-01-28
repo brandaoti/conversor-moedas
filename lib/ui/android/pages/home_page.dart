@@ -40,6 +40,7 @@ class _HomePageState extends State<HomePage> {
                 );
               } else {
                 
+                // passando as variaveis da consulta da api
                 fieldCtrl.dolar = snapshot.data["results"]["currencies"]["USD"]["buy"];
                 fieldCtrl.euro = snapshot.data["results"]["currencies"]["EUR"]["buy"];
                 
@@ -54,11 +55,12 @@ class _HomePageState extends State<HomePage> {
                     crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: <Widget>[
                       Icon(
-                        Icons.monetization_on, // Se necessario, trocar!
+                        Icons.attach_money, // Se necessario, trocar!
                         color: Colors.purple,
                         size: 100.0,
                       ),
 
+                      //Instanciando os campos de texto 
                       SizedBox(height: 20.0),
                       buildTextField(
                       "Reais", "R\$ ", 
