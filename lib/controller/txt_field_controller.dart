@@ -59,7 +59,7 @@ Widget buildTextField(String label, String prefix,
       prefixText: prefix,
     ),
     style: TextStyle(
-      color: Colors.purple,
+      color: Colors.green,
     ),
     controller: controller,
     onChanged: onChange,

@@ -6,7 +6,7 @@ class MyMaterialApp extends StatelessWidget{
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Conversor de moedas",
-      theme: ThemeData(primaryColor: Colors.green),
+      theme: ThemeData(primaryColor: Colors.deepOrange),
       home: HomePage(),
     );
   }
