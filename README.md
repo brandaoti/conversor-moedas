@@ -1,15 +1,19 @@
-# conversor_moedas
+# Conversor de Moedas
 
-A new Flutter project.
+Projeto feito atraves dos ensinamentos do curso:
 
-## Getting Started
+- [Criação de Apps Android: Dabuek Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
 
-This project is a starting point for a Flutter application.
+## Outras informações
 
-A few resources to get you started if this is your first Flutter project:
+Este projeto foi feito no intuito de aprimorar os conhecimento adquiridos do curso.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Foi usado uma API para requisição de valores do Dólar e Euro.
+
+- [Projeto: Foi usado API-Finance](https://console.hgbrasil.com/documentation/finance)
+
+- Construção de layouts, usando estrutura de pasta, fazendo instancia das classes responáveis.
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
