@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
                     children: <Widget>[
                       Icon(
                         Icons.attach_money, // Se necessario, trocar!
-                        color: Colors.purple,
+                        color: Theme.of(context).primaryColor,
                         size: 100.0,
                       ),
 
