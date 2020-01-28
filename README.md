@@ -4,7 +4,7 @@ Projeto feito atraves dos ensinamentos do curso:
 
 - [Criação de Apps Android: Daniel Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
 
-## Outras informações
+## Informações 
 
 Este projeto foi feito no intuito de aprimorar os conhecimento adquiridos no curso.
 
