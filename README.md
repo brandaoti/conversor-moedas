@@ -2,11 +2,11 @@
 
 Projeto feito atraves dos ensinamentos do curso:
 
-- [Criação de Apps Android: Dabuek Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
+- [Criação de Apps Android: Daniel Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
 
 ## Outras informações
 
-Este projeto foi feito no intuito de aprimorar os conhecimento adquiridos do curso.
+Este projeto foi feito no intuito de aprimorar os conhecimento adquiridos no curso.
 
 Foi usado uma API para requisição de valores do Dólar e Euro.
 
